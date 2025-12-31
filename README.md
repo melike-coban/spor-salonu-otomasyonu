@@ -15,3 +15,7 @@ Bu proje Java ile geliştirilmiş basit bir spor salonu otomasyonudur.
 - Java
 - Swing
 - MySQL
+
+## Proje Tanıtım Videosu
+https://youtu.be/Ems130L6gtA
+  
